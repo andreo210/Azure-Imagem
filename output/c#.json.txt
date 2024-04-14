@@ -1,0 +1,1253 @@
+[
+  {
+    "lines": [
+      {
+        "text": "freeCodeCamp (^)",
+        "boundingPolygon": [
+          {
+            "x": 150,
+            "y": 71
+          },
+          {
+            "x": 504,
+            "y": 72
+          },
+          {
+            "x": 504,
+            "y": 116
+          },
+          {
+            "x": 150,
+            "y": 114
+          }
+        ],
+        "words": [
+          {
+            "text": "freeCodeCamp",
+            "boundingPolygon": [
+              {
+                "x": 151,
+                "y": 72
+              },
+              {
+                "x": 428,
+                "y": 72
+              },
+              {
+                "x": 428,
+                "y": 116
+              },
+              {
+                "x": 150,
+                "y": 112
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "(^)",
+            "boundingPolygon": [
+              {
+                "x": 437,
+                "y": 72
+              },
+              {
+                "x": 502,
+                "y": 72
+              },
+              {
+                "x": 502,
+                "y": 116
+              },
+              {
+                "x": 437,
+                "y": 116
+              }
+            ],
+            "confidence": 0.645
+          }
+        ]
+      },
+      {
+        "text": "Microsoft",
+        "boundingPolygon": [
+          {
+            "x": 845,
+            "y": 76
+          },
+          {
+            "x": 1007,
+            "y": 76
+          },
+          {
+            "x": 1007,
+            "y": 111
+          },
+          {
+            "x": 845,
+            "y": 112
+          }
+        ],
+        "words": [
+          {
+            "text": "Microsoft",
+            "boundingPolygon": [
+              {
+                "x": 846,
+                "y": 77
+              },
+              {
+                "x": 1008,
+                "y": 76
+              },
+              {
+                "x": 1007,
+                "y": 112
+              },
+              {
+                "x": 845,
+                "y": 112
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "This certifies that",
+        "boundingPolygon": [
+          {
+            "x": 468,
+            "y": 214
+          },
+          {
+            "x": 755,
+            "y": 213
+          },
+          {
+            "x": 755,
+            "y": 238
+          },
+          {
+            "x": 468,
+            "y": 239
+          }
+        ],
+        "words": [
+          {
+            "text": "This",
+            "boundingPolygon": [
+              {
+                "x": 468,
+                "y": 214
+              },
+              {
+                "x": 526,
+                "y": 214
+              },
+              {
+                "x": 525,
+                "y": 240
+              },
+              {
+                "x": 468,
+                "y": 240
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "certifies",
+            "boundingPolygon": [
+              {
+                "x": 542,
+                "y": 214
+              },
+              {
+                "x": 677,
+                "y": 214
+              },
+              {
+                "x": 677,
+                "y": 239
+              },
+              {
+                "x": 542,
+                "y": 239
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "that",
+            "boundingPolygon": [
+              {
+                "x": 694,
+                "y": 214
+              },
+              {
+                "x": 753,
+                "y": 213
+              },
+              {
+                "x": 753,
+                "y": 239
+              },
+              {
+                "x": 694,
+                "y": 239
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "André Oliveira de Alcantara",
+        "boundingPolygon": [
+          {
+            "x": 243,
+            "y": 253
+          },
+          {
+            "x": 978,
+            "y": 254
+          },
+          {
+            "x": 978,
+            "y": 298
+          },
+          {
+            "x": 243,
+            "y": 296
+          }
+        ],
+        "words": [
+          {
+            "text": "André",
+            "boundingPolygon": [
+              {
+                "x": 243,
+                "y": 253
+              },
+              {
+                "x": 375,
+                "y": 253
+              },
+              {
+                "x": 375,
+                "y": 298
+              },
+              {
+                "x": 243,
+                "y": 297
+              }
+            ],
+            "confidence": 0.706
+          },
+          {
+            "text": "Oliveira",
+            "boundingPolygon": [
+              {
+                "x": 407,
+                "y": 253
+              },
+              {
+                "x": 620,
+                "y": 254
+              },
+              {
+                "x": 620,
+                "y": 298
+              },
+              {
+                "x": 407,
+                "y": 298
+              }
+            ],
+            "confidence": 0.95
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 652,
+                "y": 254
+              },
+              {
+                "x": 699,
+                "y": 255
+              },
+              {
+                "x": 699,
+                "y": 298
+              },
+              {
+                "x": 652,
+                "y": 298
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "Alcantara",
+            "boundingPolygon": [
+              {
+                "x": 734,
+                "y": 255
+              },
+              {
+                "x": 973,
+                "y": 257
+              },
+              {
+                "x": 973,
+                "y": 297
+              },
+              {
+                "x": 734,
+                "y": 298
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "successfully completed the",
+        "boundingPolygon": [
+          {
+            "x": 412,
+            "y": 321
+          },
+          {
+            "x": 807,
+            "y": 320
+          },
+          {
+            "x": 807,
+            "y": 347
+          },
+          {
+            "x": 413,
+            "y": 348
+          }
+        ],
+        "words": [
+          {
+            "text": "successfully",
+            "boundingPolygon": [
+              {
+                "x": 415,
+                "y": 323
+              },
+              {
+                "x": 593,
+                "y": 321
+              },
+              {
+                "x": 593,
+                "y": 348
+              },
+              {
+                "x": 415,
+                "y": 347
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "completed",
+            "boundingPolygon": [
+              {
+                "x": 609,
+                "y": 321
+              },
+              {
+                "x": 743,
+                "y": 320
+              },
+              {
+                "x": 742,
+                "y": 348
+              },
+              {
+                "x": 609,
+                "y": 348
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "the",
+            "boundingPolygon": [
+              {
+                "x": 763,
+                "y": 320
+              },
+              {
+                "x": 804,
+                "y": 320
+              },
+              {
+                "x": 803,
+                "y": 348
+              },
+              {
+                "x": 762,
+                "y": 348
+              }
+            ],
+            "confidence": 0.999
+          }
+        ]
+      },
+      {
+        "text": "Foundational C# with Microsoft",
+        "boundingPolygon": [
+          {
+            "x": 203,
+            "y": 361
+          },
+          {
+            "x": 1019,
+            "y": 360
+          },
+          {
+            "x": 1019,
+            "y": 403
+          },
+          {
+            "x": 203,
+            "y": 404
+          }
+        ],
+        "words": [
+          {
+            "text": "Foundational",
+            "boundingPolygon": [
+              {
+                "x": 203,
+                "y": 362
+              },
+              {
+                "x": 527,
+                "y": 361
+              },
+              {
+                "x": 526,
+                "y": 405
+              },
+              {
+                "x": 203,
+                "y": 405
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "C#",
+            "boundingPolygon": [
+              {
+                "x": 556,
+                "y": 361
+              },
+              {
+                "x": 606,
+                "y": 361
+              },
+              {
+                "x": 606,
+                "y": 405
+              },
+              {
+                "x": 556,
+                "y": 405
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "with",
+            "boundingPolygon": [
+              {
+                "x": 633,
+                "y": 361
+              },
+              {
+                "x": 740,
+                "y": 361
+              },
+              {
+                "x": 739,
+                "y": 404
+              },
+              {
+                "x": 632,
+                "y": 405
+              }
+            ],
+            "confidence": 0.984
+          },
+          {
+            "text": "Microsoft",
+            "boundingPolygon": [
+              {
+                "x": 769,
+                "y": 361
+              },
+              {
+                "x": 1016,
+                "y": 361
+              },
+              {
+                "x": 1015,
+                "y": 403
+              },
+              {
+                "x": 769,
+                "y": 404
+              }
+            ],
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "text": "Developer Certification on February 20, 2024",
+        "boundingPolygon": [
+          {
+            "x": 276,
+            "y": 426
+          },
+          {
+            "x": 943,
+            "y": 426
+          },
+          {
+            "x": 943,
+            "y": 455
+          },
+          {
+            "x": 276,
+            "y": 455
+          }
+        ],
+        "words": [
+          {
+            "text": "Developer",
+            "boundingPolygon": [
+              {
+                "x": 277,
+                "y": 430
+              },
+              {
+                "x": 414,
+                "y": 428
+              },
+              {
+                "x": 414,
+                "y": 456
+              },
+              {
+                "x": 277,
+                "y": 455
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Certification",
+            "boundingPolygon": [
+              {
+                "x": 429,
+                "y": 427
+              },
+              {
+                "x": 622,
+                "y": 426
+              },
+              {
+                "x": 622,
+                "y": 456
+              },
+              {
+                "x": 429,
+                "y": 456
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "on",
+            "boundingPolygon": [
+              {
+                "x": 639,
+                "y": 426
+              },
+              {
+                "x": 668,
+                "y": 426
+              },
+              {
+                "x": 668,
+                "y": 456
+              },
+              {
+                "x": 639,
+                "y": 456
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "February",
+            "boundingPolygon": [
+              {
+                "x": 685,
+                "y": 426
+              },
+              {
+                "x": 804,
+                "y": 427
+              },
+              {
+                "x": 803,
+                "y": 455
+              },
+              {
+                "x": 685,
+                "y": 456
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "20,",
+            "boundingPolygon": [
+              {
+                "x": 822,
+                "y": 427
+              },
+              {
+                "x": 868,
+                "y": 428
+              },
+              {
+                "x": 867,
+                "y": 455
+              },
+              {
+                "x": 822,
+                "y": 455
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "2024",
+            "boundingPolygon": [
+              {
+                "x": 883,
+                "y": 428
+              },
+              {
+                "x": 943,
+                "y": 428
+              },
+              {
+                "x": 942,
+                "y": 455
+              },
+              {
+                "x": 882,
+                "y": 455
+              }
+            ],
+            "confidence": 0.989
+          }
+        ]
+      },
+      {
+        "text": "OLANSON",
+        "boundingPolygon": [
+          {
+            "x": 220,
+            "y": 545
+          },
+          {
+            "x": 408,
+            "y": 548
+          },
+          {
+            "x": 412,
+            "y": 622
+          },
+          {
+            "x": 223,
+            "y": 628
+          }
+        ],
+        "words": [
+          {
+            "text": "OLANSON",
+            "boundingPolygon": [
+              {
+                "x": 222,
+                "y": 545
+              },
+              {
+                "x": 407,
+                "y": 545
+              },
+              {
+                "x": 408,
+                "y": 627
+              },
+              {
+                "x": 223,
+                "y": 628
+              }
+            ],
+            "confidence": 0.101
+          }
+        ]
+      },
+      {
+        "text": "Juliedrivas",
+        "boundingPolygon": [
+          {
+            "x": 745,
+            "y": 557
+          },
+          {
+            "x": 1041,
+            "y": 571
+          },
+          {
+            "x": 1040,
+            "y": 634
+          },
+          {
+            "x": 744,
+            "y": 624
+          }
+        ],
+        "words": [
+          {
+            "text": "Juliedrivas",
+            "boundingPolygon": [
+              {
+                "x": 756,
+                "y": 558
+              },
+              {
+                "x": 1040,
+                "y": 581
+              },
+              {
+                "x": 1041,
+                "y": 634
+              },
+              {
+                "x": 755,
+                "y": 626
+              }
+            ],
+            "confidence": 0.216
+          }
+        ]
+      },
+      {
+        "text": "Quincy Larson",
+        "boundingPolygon": [
+          {
+            "x": 260,
+            "y": 645
+          },
+          {
+            "x": 390,
+            "y": 645
+          },
+          {
+            "x": 390,
+            "y": 666
+          },
+          {
+            "x": 260,
+            "y": 666
+          }
+        ],
+        "words": [
+          {
+            "text": "Quincy",
+            "boundingPolygon": [
+              {
+                "x": 261,
+                "y": 646
+              },
+              {
+                "x": 323,
+                "y": 645
+              },
+              {
+                "x": 323,
+                "y": 667
+              },
+              {
+                "x": 261,
+                "y": 666
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Larson",
+            "boundingPolygon": [
+              {
+                "x": 327,
+                "y": 645
+              },
+              {
+                "x": 386,
+                "y": 646
+              },
+              {
+                "x": 386,
+                "y": 666
+              },
+              {
+                "x": 327,
+                "y": 667
+              }
+            ],
+            "confidence": 0.997
+          }
+        ]
+      },
+      {
+        "text": "Julia Liuson",
+        "boundingPolygon": [
+          {
+            "x": 842,
+            "y": 644
+          },
+          {
+            "x": 947,
+            "y": 645
+          },
+          {
+            "x": 947,
+            "y": 664
+          },
+          {
+            "x": 842,
+            "y": 663
+          }
+        ],
+        "words": [
+          {
+            "text": "Julia",
+            "boundingPolygon": [
+              {
+                "x": 844,
+                "y": 644
+              },
+              {
+                "x": 883,
+                "y": 645
+              },
+              {
+                "x": 883,
+                "y": 665
+              },
+              {
+                "x": 842,
+                "y": 664
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Liuson",
+            "boundingPolygon": [
+              {
+                "x": 887,
+                "y": 645
+              },
+              {
+                "x": 946,
+                "y": 646
+              },
+              {
+                "x": 946,
+                "y": 665
+              },
+              {
+                "x": 886,
+                "y": 665
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Executive Director, freeCodeCamp.org",
+        "boundingPolygon": [
+          {
+            "x": 180,
+            "y": 672
+          },
+          {
+            "x": 471,
+            "y": 673
+          },
+          {
+            "x": 471,
+            "y": 693
+          },
+          {
+            "x": 180,
+            "y": 692
+          }
+        ],
+        "words": [
+          {
+            "text": "Executive",
+            "boundingPolygon": [
+              {
+                "x": 181,
+                "y": 674
+              },
+              {
+                "x": 253,
+                "y": 673
+              },
+              {
+                "x": 253,
+                "y": 693
+              },
+              {
+                "x": 181,
+                "y": 692
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "Director,",
+            "boundingPolygon": [
+              {
+                "x": 257,
+                "y": 673
+              },
+              {
+                "x": 321,
+                "y": 673
+              },
+              {
+                "x": 321,
+                "y": 693
+              },
+              {
+                "x": 256,
+                "y": 693
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "freeCodeCamp.org",
+            "boundingPolygon": [
+              {
+                "x": 325,
+                "y": 673
+              },
+              {
+                "x": 469,
+                "y": 675
+              },
+              {
+                "x": 469,
+                "y": 694
+              },
+              {
+                "x": 325,
+                "y": 693
+              }
+            ],
+            "confidence": 0.976
+          }
+        ]
+      },
+      {
+        "text": "President, Microsoft Developer Division",
+        "boundingPolygon": [
+          {
+            "x": 746,
+            "y": 672
+          },
+          {
+            "x": 1045,
+            "y": 672
+          },
+          {
+            "x": 1045,
+            "y": 692
+          },
+          {
+            "x": 746,
+            "y": 692
+          }
+        ],
+        "words": [
+          {
+            "text": "President,",
+            "boundingPolygon": [
+              {
+                "x": 748,
+                "y": 673
+              },
+              {
+                "x": 821,
+                "y": 673
+              },
+              {
+                "x": 820,
+                "y": 692
+              },
+              {
+                "x": 747,
+                "y": 692
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "Microsoft",
+            "boundingPolygon": [
+              {
+                "x": 824,
+                "y": 673
+              },
+              {
+                "x": 897,
+                "y": 673
+              },
+              {
+                "x": 897,
+                "y": 693
+              },
+              {
+                "x": 824,
+                "y": 692
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "Developer",
+            "boundingPolygon": [
+              {
+                "x": 901,
+                "y": 673
+              },
+              {
+                "x": 978,
+                "y": 673
+              },
+              {
+                "x": 978,
+                "y": 693
+              },
+              {
+                "x": 901,
+                "y": 693
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Division",
+            "boundingPolygon": [
+              {
+                "x": 982,
+                "y": 673
+              },
+              {
+                "x": 1043,
+                "y": 673
+              },
+              {
+                "x": 1044,
+                "y": 693
+              },
+              {
+                "x": 982,
+                "y": 693
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "Verify this certification at:",
+        "boundingPolygon": [
+          {
+            "x": 523,
+            "y": 731
+          },
+          {
+            "x": 695,
+            "y": 731
+          },
+          {
+            "x": 695,
+            "y": 748
+          },
+          {
+            "x": 523,
+            "y": 748
+          }
+        ],
+        "words": [
+          {
+            "text": "Verify",
+            "boundingPolygon": [
+              {
+                "x": 524,
+                "y": 732
+              },
+              {
+                "x": 564,
+                "y": 731
+              },
+              {
+                "x": 563,
+                "y": 748
+              },
+              {
+                "x": 524,
+                "y": 748
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "this",
+            "boundingPolygon": [
+              {
+                "x": 567,
+                "y": 731
+              },
+              {
+                "x": 591,
+                "y": 731
+              },
+              {
+                "x": 591,
+                "y": 748
+              },
+              {
+                "x": 567,
+                "y": 748
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "certification",
+            "boundingPolygon": [
+              {
+                "x": 594,
+                "y": 731
+              },
+              {
+                "x": 674,
+                "y": 732
+              },
+              {
+                "x": 673,
+                "y": 748
+              },
+              {
+                "x": 594,
+                "y": 748
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "at:",
+            "boundingPolygon": [
+              {
+                "x": 678,
+                "y": 732
+              },
+              {
+                "x": 695,
+                "y": 732
+              },
+              {
+                "x": 695,
+                "y": 748
+              },
+              {
+                "x": 677,
+                "y": 748
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "https://freecodecamp.org/certification/fcc14b0bc4f-2513-4406-9cbd-78b81c019236/foundational-c-sharp-with-microsoft",
+        "boundingPolygon": [
+          {
+            "x": 202,
+            "y": 757
+          },
+          {
+            "x": 1018,
+            "y": 757
+          },
+          {
+            "x": 1018,
+            "y": 775
+          },
+          {
+            "x": 202,
+            "y": 775
+          }
+        ],
+        "words": [
+          {
+            "text": "https://freecodecamp.org/certification/fcc14b0bc4f-2513-4406-9cbd-78b81c019236/foundational-c-sharp-with-microsoft",
+            "boundingPolygon": [
+              {
+                "x": 203,
+                "y": 758
+              },
+              {
+                "x": 1017,
+                "y": 759
+              },
+              {
+                "x": 1018,
+                "y": 775
+              },
+              {
+                "x": 202,
+                "y": 776
+              }
+            ],
+            "confidence": 0.788
+          }
+        ]
+      }
+    ]
+  }
+]
